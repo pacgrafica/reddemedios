@@ -1,0 +1,299 @@
+[15-Jul-2018 22:19:07 America/Bogota] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/servic/public_html/registro/registrar.php on line 16
+[17-Jul-2018 19:16:09 America/Bogota] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/servic/public_html/registro/registrar.php on line 16
+[17-Jul-2018 19:16:17 America/Bogota] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/servic/public_html/registro/registrar.php on line 16
+[17-Jul-2018 19:16:29 America/Bogota] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/servic/public_html/registro/registrar.php on line 16
+[31-Oct-2019 06:10:52 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/glfjyjdulose/public_html/reddemedios/validar.php on line 6
+[31-Oct-2019 06:10:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/validar.php on line 16
+[31-Oct-2019 06:10:52 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/glfjyjdulose/public_html/reddemedios/validar.php on line 17
+[01-Nov-2019 15:45:03 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/glfjyjdulose/public_html/reddemedios/conexion.php on line 3
+[01-Nov-2019 15:45:03 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 16
+[01-Nov-2019 15:45:03 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 17
+[01-Nov-2019 15:45:03 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 22
+[01-Nov-2019 15:45:03 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 23
+[01-Nov-2019 15:45:03 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 29
+[01-Nov-2019 15:45:03 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 41
+[01-Nov-2019 15:51:32 UTC] PHP Notice:  Undefined variable: i in /home/glfjyjdulose/public_html/reddemedios/conexion.php on line 3
+[01-Nov-2019 15:51:32 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'https://www.pacgrafica.com/reddemedios' (0) in /home/glfjyjdulose/public_html/reddemedios/conexion.php on line 3
+[01-Nov-2019 15:51:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 16
+[01-Nov-2019 15:51:32 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 17
+[01-Nov-2019 15:51:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 22
+[01-Nov-2019 15:51:32 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 23
+[01-Nov-2019 15:51:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 29
+[01-Nov-2019 15:51:32 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 41
+[01-Nov-2019 15:52:25 UTC] PHP Notice:  Undefined variable: i in /home/glfjyjdulose/public_html/reddemedios/conexion.php on line 3
+[01-Nov-2019 15:52:25 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'https://www.pacgrafica.com/reddemedios' (0) in /home/glfjyjdulose/public_html/reddemedios/conexion.php on line 3
+[01-Nov-2019 15:52:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 16
+[01-Nov-2019 15:52:25 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 17
+[01-Nov-2019 15:52:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 22
+[01-Nov-2019 15:52:25 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 23
+[01-Nov-2019 15:52:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 29
+[01-Nov-2019 15:52:25 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 41
+[01-Nov-2019 15:54:37 UTC] PHP Notice:  Undefined variable: i in /home/glfjyjdulose/public_html/reddemedios/conexion.php on line 3
+[01-Nov-2019 15:54:37 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'pacgrafica.com/reddemedios' (0) in /home/glfjyjdulose/public_html/reddemedios/conexion.php on line 3
+[01-Nov-2019 15:54:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 16
+[01-Nov-2019 15:54:37 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 17
+[01-Nov-2019 15:54:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 22
+[01-Nov-2019 15:54:37 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 23
+[01-Nov-2019 15:54:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 29
+[01-Nov-2019 15:54:37 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 41
+[01-Nov-2019 15:55:05 UTC] PHP Notice:  Undefined variable: i in /home/glfjyjdulose/public_html/reddemedios/conexion.php on line 3
+[01-Nov-2019 15:55:05 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'pacgrafica.com/reddemedios' (0) in /home/glfjyjdulose/public_html/reddemedios/conexion.php on line 3
+[01-Nov-2019 15:55:05 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 16
+[01-Nov-2019 15:55:05 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 17
+[01-Nov-2019 15:55:05 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 22
+[01-Nov-2019 15:55:05 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 23
+[01-Nov-2019 15:55:05 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 29
+[01-Nov-2019 15:55:05 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 41
+[01-Nov-2019 15:56:37 UTC] PHP Notice:  Undefined variable: i in /home/glfjyjdulose/public_html/reddemedios/conexion.php on line 3
+[01-Nov-2019 15:56:37 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'glfjyjdulose'@'ip-160-153-128-2.ip.secureserver.net' (using password: YES) in /home/glfjyjdulose/public_html/reddemedios/conexion.php on line 3
+[01-Nov-2019 15:56:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 16
+[01-Nov-2019 15:56:37 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 17
+[01-Nov-2019 15:56:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 22
+[01-Nov-2019 15:56:37 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 23
+[01-Nov-2019 15:56:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 29
+[01-Nov-2019 15:56:37 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 41
+[01-Nov-2019 15:58:25 UTC] PHP Notice:  Undefined variable: i in /home/glfjyjdulose/public_html/reddemedios/conexion.php on line 3
+[01-Nov-2019 15:58:25 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'https://www.pacgrafica.com' (0) in /home/glfjyjdulose/public_html/reddemedios/conexion.php on line 3
+[01-Nov-2019 15:58:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 16
+[01-Nov-2019 15:58:25 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 17
+[01-Nov-2019 15:58:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 22
+[01-Nov-2019 15:58:25 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 23
+[01-Nov-2019 15:58:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 29
+[01-Nov-2019 15:58:25 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 41
+[01-Nov-2019 16:00:50 UTC] PHP Notice:  Undefined variable: i in /home/glfjyjdulose/public_html/reddemedios/conexion.php on line 3
+[01-Nov-2019 16:00:50 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'glfjyjdulose'@'n3plcpnl0002.prod.ams3.secureserver.net' (using password: YES) in /home/glfjyjdulose/public_html/reddemedios/conexion.php on line 3
+[01-Nov-2019 16:00:50 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 16
+[01-Nov-2019 16:00:50 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 17
+[01-Nov-2019 16:00:50 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 22
+[01-Nov-2019 16:00:50 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 23
+[01-Nov-2019 16:00:50 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 29
+[01-Nov-2019 16:00:50 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 41
+[01-Nov-2019 16:06:00 UTC] PHP Notice:  Undefined variable: i in /home/glfjyjdulose/public_html/reddemedios/conexion.php on line 3
+[01-Nov-2019 16:06:00 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'https://n3plcpnl0002.prod.ams3.secureserver.net' (0) in /home/glfjyjdulose/public_html/reddemedios/conexion.php on line 3
+[01-Nov-2019 16:06:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 16
+[01-Nov-2019 16:06:00 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 17
+[01-Nov-2019 16:06:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 22
+[01-Nov-2019 16:06:00 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 23
+[01-Nov-2019 16:06:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 29
+[01-Nov-2019 16:06:00 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 41
+[01-Nov-2019 16:15:34 UTC] PHP Notice:  Undefined variable: i in /home/glfjyjdulose/public_html/reddemedios/conexion.php on line 3
+[01-Nov-2019 16:15:34 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'glfjyjdulose'@'n3plcpnl0002.prod.ams3.secureserver.net' (using password: YES) in /home/glfjyjdulose/public_html/reddemedios/conexion.php on line 3
+[01-Nov-2019 16:15:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 16
+[01-Nov-2019 16:15:34 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 17
+[01-Nov-2019 16:15:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 22
+[01-Nov-2019 16:15:34 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 23
+[01-Nov-2019 16:15:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 29
+[01-Nov-2019 16:15:34 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 41
+[01-Nov-2019 16:16:18 UTC] PHP Notice:  Undefined variable: i in /home/glfjyjdulose/public_html/reddemedios/conexion.php on line 3
+[01-Nov-2019 16:16:18 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'www.n3plcpnl0002.prod.ams3.secureserver.net' (0) in /home/glfjyjdulose/public_html/reddemedios/conexion.php on line 3
+[01-Nov-2019 16:16:18 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 16
+[01-Nov-2019 16:16:18 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 17
+[01-Nov-2019 16:16:18 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 22
+[01-Nov-2019 16:16:18 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 23
+[01-Nov-2019 16:16:18 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 29
+[01-Nov-2019 16:16:18 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 41
+[01-Nov-2019 16:19:21 UTC] PHP Notice:  Undefined variable: i in /home/glfjyjdulose/public_html/reddemedios/conexion.php on line 3
+[01-Nov-2019 16:19:21 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'glfjyjdulose'@'localhost' (using password: YES) in /home/glfjyjdulose/public_html/reddemedios/conexion.php on line 3
+[01-Nov-2019 16:19:21 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 16
+[01-Nov-2019 16:19:21 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 17
+[01-Nov-2019 16:19:21 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 22
+[01-Nov-2019 16:19:21 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 23
+[01-Nov-2019 16:19:21 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 29
+[01-Nov-2019 16:19:21 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 41
+[01-Nov-2019 16:24:24 UTC] PHP Notice:  Undefined variable: i in /home/glfjyjdulose/public_html/reddemedios/conexion.php on line 3
+[01-Nov-2019 16:24:24 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'glfjyjdulose'@'ip-160-153-128-2.ip.secureserver.net' (using password: YES) in /home/glfjyjdulose/public_html/reddemedios/conexion.php on line 3
+[01-Nov-2019 16:24:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 16
+[01-Nov-2019 16:24:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 17
+[01-Nov-2019 16:24:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 22
+[01-Nov-2019 16:24:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 23
+[01-Nov-2019 16:24:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 29
+[01-Nov-2019 16:24:24 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 41
+[01-Nov-2019 16:27:01 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/glfjyjdulose/public_html/reddemedios/validar.php on line 6
+[01-Nov-2019 16:27:02 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/validar.php on line 16
+[01-Nov-2019 16:27:02 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/glfjyjdulose/public_html/reddemedios/validar.php on line 17
+[01-Nov-2019 16:28:08 UTC] PHP Notice:  Undefined variable: i in /home/glfjyjdulose/public_html/reddemedios/conexion.php on line 3
+[01-Nov-2019 16:28:08 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'glfjyjdulose'@'ip-160-153-128-2.ip.secureserver.net' (using password: YES) in /home/glfjyjdulose/public_html/reddemedios/conexion.php on line 3
+[01-Nov-2019 16:28:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 16
+[01-Nov-2019 16:28:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 17
+[01-Nov-2019 16:28:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 22
+[01-Nov-2019 16:28:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 23
+[01-Nov-2019 16:28:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 29
+[01-Nov-2019 16:28:08 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 41
+[01-Nov-2019 16:35:00 UTC] PHP Notice:  Undefined variable: i in /home/glfjyjdulose/public_html/reddemedios/conexion.php on line 3
+[01-Nov-2019 16:35:00 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'glfjyjdulose@localhost'@'ip-160-153-128-2.ip.secureserver.net' (using password: YES) in /home/glfjyjdulose/public_html/reddemedios/conexion.php on line 3
+[01-Nov-2019 16:35:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 16
+[01-Nov-2019 16:35:00 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 17
+[01-Nov-2019 16:35:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 22
+[01-Nov-2019 16:35:00 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 23
+[01-Nov-2019 16:35:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 29
+[01-Nov-2019 16:35:00 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 41
+[01-Nov-2019 16:36:00 UTC] PHP Notice:  Undefined variable: i in /home/glfjyjdulose/public_html/reddemedios/conexion.php on line 3
+[01-Nov-2019 16:36:00 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'glfjyjdulose@localhost'@'ip-160-153-128-2.ip.secureserver.net' (using password: YES) in /home/glfjyjdulose/public_html/reddemedios/conexion.php on line 3
+[01-Nov-2019 16:36:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 16
+[01-Nov-2019 16:36:00 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 17
+[01-Nov-2019 16:36:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 22
+[01-Nov-2019 16:36:00 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 23
+[01-Nov-2019 16:36:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 29
+[01-Nov-2019 16:36:00 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 41
+[01-Nov-2019 16:47:39 UTC] PHP Notice:  Undefined variable: i in /home/glfjyjdulose/public_html/reddemedios/conexion.php on line 3
+[01-Nov-2019 16:47:39 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'glfjyjdulose'@'n3plcpnl0002.prod.ams3.secureserver.net' (using password: YES) in /home/glfjyjdulose/public_html/reddemedios/conexion.php on line 3
+[01-Nov-2019 16:47:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 16
+[01-Nov-2019 16:47:40 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 17
+[01-Nov-2019 16:47:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 22
+[01-Nov-2019 16:47:40 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 23
+[01-Nov-2019 16:47:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 29
+[01-Nov-2019 16:47:40 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 41
+[01-Nov-2019 16:48:29 UTC] PHP Notice:  Undefined variable: i in /home/glfjyjdulose/public_html/reddemedios/conexion.php on line 3
+[01-Nov-2019 16:48:29 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'glfjyjdulose'@'ip-160-153-128-2.ip.secureserver.net' (using password: YES) in /home/glfjyjdulose/public_html/reddemedios/conexion.php on line 3
+[01-Nov-2019 16:48:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 16
+[01-Nov-2019 16:48:29 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 17
+[01-Nov-2019 16:48:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 22
+[01-Nov-2019 16:48:29 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 23
+[01-Nov-2019 16:48:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 29
+[01-Nov-2019 16:48:29 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 41
+[01-Nov-2019 16:48:49 UTC] PHP Notice:  Undefined variable: i in /home/glfjyjdulose/public_html/reddemedios/conexion.php on line 3
+[01-Nov-2019 16:48:49 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'glfjyjdulose'@'ip-160-153-128-2.ip.secureserver.net' (using password: YES) in /home/glfjyjdulose/public_html/reddemedios/conexion.php on line 3
+[01-Nov-2019 16:48:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 16
+[01-Nov-2019 16:48:49 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 17
+[01-Nov-2019 16:48:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 22
+[01-Nov-2019 16:48:49 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 23
+[01-Nov-2019 16:48:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 29
+[01-Nov-2019 16:48:49 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 41
+[01-Nov-2019 16:52:02 UTC] PHP Notice:  Undefined variable: i in /home/glfjyjdulose/public_html/reddemedios/conexion.php on line 3
+[01-Nov-2019 16:52:02 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'glfjyjdulose'@'ip-160-153-128-2.ip.secureserver.net' (using password: YES) in /home/glfjyjdulose/public_html/reddemedios/conexion.php on line 3
+[01-Nov-2019 16:52:02 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 16
+[01-Nov-2019 16:52:02 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 17
+[01-Nov-2019 16:52:02 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 22
+[01-Nov-2019 16:52:02 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 23
+[01-Nov-2019 16:52:02 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 29
+[01-Nov-2019 16:52:02 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 41
+[01-Nov-2019 16:55:12 UTC] PHP Notice:  Undefined variable: i in /home/glfjyjdulose/public_html/reddemedios/conexion.php on line 3
+[01-Nov-2019 16:55:12 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'glfjyjdulose'@'ip-160-153-128-2.ip.secureserver.net' (using password: YES) in /home/glfjyjdulose/public_html/reddemedios/conexion.php on line 3
+[01-Nov-2019 16:55:12 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 16
+[01-Nov-2019 16:55:12 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 17
+[01-Nov-2019 16:55:12 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 22
+[01-Nov-2019 16:55:12 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 23
+[01-Nov-2019 16:55:12 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 29
+[01-Nov-2019 16:55:12 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 41
+[01-Nov-2019 16:59:51 UTC] PHP Notice:  Undefined variable: i in /home/glfjyjdulose/public_html/reddemedios/conexion.php on line 3
+[01-Nov-2019 17:00:53 UTC] PHP Notice:  Undefined variable: i in /home/glfjyjdulose/public_html/reddemedios/conexion.php on line 3
+[01-Nov-2019 17:00:54 UTC] PHP Warning:  mysqli_connect(): (HY000/2003): Can't connect to MySQL server on '181.49.188.9' (110) in /home/glfjyjdulose/public_html/reddemedios/conexion.php on line 3
+[01-Nov-2019 17:00:54 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 16
+[01-Nov-2019 17:00:54 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 17
+[01-Nov-2019 17:00:54 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 22
+[01-Nov-2019 17:00:54 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 23
+[01-Nov-2019 17:00:54 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 29
+[01-Nov-2019 17:00:54 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 41
+[01-Nov-2019 17:01:22 UTC] PHP Notice:  Undefined variable: i in /home/glfjyjdulose/public_html/reddemedios/conexion.php on line 3
+[01-Nov-2019 17:01:23 UTC] PHP Notice:  Undefined variable: i in /home/glfjyjdulose/public_html/reddemedios/conexion.php on line 3
+[01-Nov-2019 17:01:24 UTC] PHP Notice:  Undefined variable: i in /home/glfjyjdulose/public_html/reddemedios/conexion.php on line 3
+[01-Nov-2019 17:01:56 UTC] PHP Notice:  Undefined variable: i in /home/glfjyjdulose/public_html/reddemedios/conexion.php on line 3
+[01-Nov-2019 17:01:56 UTC] PHP Warning:  mysqli_connect(): (HY000/2003): Can't connect to MySQL server on '181.49.188.9' (110) in /home/glfjyjdulose/public_html/reddemedios/conexion.php on line 3
+[01-Nov-2019 17:01:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 16
+[01-Nov-2019 17:01:56 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 17
+[01-Nov-2019 17:01:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 22
+[01-Nov-2019 17:01:56 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 23
+[01-Nov-2019 17:01:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 29
+[01-Nov-2019 17:01:56 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 41
+[01-Nov-2019 17:02:25 UTC] PHP Warning:  mysqli_connect(): (HY000/2003): Can't connect to MySQL server on '181.49.188.9' (110) in /home/glfjyjdulose/public_html/reddemedios/conexion.php on line 3
+[01-Nov-2019 17:02:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 16
+[01-Nov-2019 17:02:25 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 17
+[01-Nov-2019 17:02:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 22
+[01-Nov-2019 17:02:25 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 23
+[01-Nov-2019 17:02:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 29
+[01-Nov-2019 17:02:25 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 41
+[01-Nov-2019 17:02:27 UTC] PHP Warning:  mysqli_connect(): (HY000/2003): Can't connect to MySQL server on '181.49.188.9' (110) in /home/glfjyjdulose/public_html/reddemedios/conexion.php on line 3
+[01-Nov-2019 17:02:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 16
+[01-Nov-2019 17:02:27 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 17
+[01-Nov-2019 17:02:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 22
+[01-Nov-2019 17:02:27 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 23
+[01-Nov-2019 17:02:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 29
+[01-Nov-2019 17:02:27 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 41
+[01-Nov-2019 17:02:27 UTC] PHP Warning:  mysqli_connect(): (HY000/2003): Can't connect to MySQL server on '181.49.188.9' (110) in /home/glfjyjdulose/public_html/reddemedios/conexion.php on line 3
+[01-Nov-2019 17:02:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 16
+[01-Nov-2019 17:02:27 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 17
+[01-Nov-2019 17:02:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 22
+[01-Nov-2019 17:02:27 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 23
+[01-Nov-2019 17:02:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 29
+[01-Nov-2019 17:02:27 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 41
+[01-Nov-2019 17:02:59 UTC] PHP Warning:  mysqli_connect(): (HY000/2003): Can't connect to MySQL server on '181.49.188.9' (110) in /home/glfjyjdulose/public_html/reddemedios/conexion.php on line 3
+[01-Nov-2019 17:02:59 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 16
+[01-Nov-2019 17:02:59 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 17
+[01-Nov-2019 17:02:59 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 22
+[01-Nov-2019 17:02:59 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 23
+[01-Nov-2019 17:02:59 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 29
+[01-Nov-2019 17:02:59 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 41
+[01-Nov-2019 17:03:57 UTC] PHP Notice:  Undefined variable: i in /home/glfjyjdulose/public_html/reddemedios/conexion.php on line 3
+[01-Nov-2019 17:03:57 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'glfjyjdulose'@'ip-160-153-128-2.ip.secureserver.net' (using password: YES) in /home/glfjyjdulose/public_html/reddemedios/conexion.php on line 3
+[01-Nov-2019 17:03:57 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 16
+[01-Nov-2019 17:03:57 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 17
+[01-Nov-2019 17:03:57 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 22
+[01-Nov-2019 17:03:57 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 23
+[01-Nov-2019 17:03:57 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 29
+[01-Nov-2019 17:03:57 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 41
+[01-Nov-2019 17:05:22 UTC] PHP Notice:  Undefined variable: i in /home/glfjyjdulose/public_html/reddemedios/conexion.php on line 3
+[01-Nov-2019 17:06:25 UTC] PHP Warning:  mysqli_connect(): (HY000/2003): Can't connect to MySQL server on '181.49.188.9' (110) in /home/glfjyjdulose/public_html/reddemedios/conexion.php on line 3
+[01-Nov-2019 17:06:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 16
+[01-Nov-2019 17:06:25 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 17
+[01-Nov-2019 17:06:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 22
+[01-Nov-2019 17:06:25 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 23
+[01-Nov-2019 17:06:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 29
+[01-Nov-2019 17:06:25 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 41
+[01-Nov-2019 17:07:09 UTC] PHP Notice:  Undefined variable: i in /home/glfjyjdulose/public_html/reddemedios/conexion.php on line 3
+[01-Nov-2019 17:07:09 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'glfjyjdulose'@'localhost' (using password: YES) in /home/glfjyjdulose/public_html/reddemedios/conexion.php on line 3
+[01-Nov-2019 17:07:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 16
+[01-Nov-2019 17:07:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 17
+[01-Nov-2019 17:07:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 22
+[01-Nov-2019 17:07:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 23
+[01-Nov-2019 17:07:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 29
+[01-Nov-2019 17:07:10 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 41
+[01-Nov-2019 17:10:04 UTC] PHP Notice:  Undefined variable: i in /home/glfjyjdulose/public_html/reddemedios/conexion.php on line 3
+[01-Nov-2019 17:10:04 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'glfjyjdulose'@'n3plcpnl0002.prod.ams3.secureserver.net' (using password: YES) in /home/glfjyjdulose/public_html/reddemedios/conexion.php on line 3
+[01-Nov-2019 17:10:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 16
+[01-Nov-2019 17:10:04 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 17
+[01-Nov-2019 17:10:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 22
+[01-Nov-2019 17:10:04 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 23
+[01-Nov-2019 17:10:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 29
+[01-Nov-2019 17:10:04 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 41
+[01-Nov-2019 17:10:10 UTC] PHP Notice:  Undefined variable: i in /home/glfjyjdulose/public_html/reddemedios/conexion.php on line 3
+[01-Nov-2019 17:10:10 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'glfjyjdulose'@'n3plcpnl0002.prod.ams3.secureserver.net' (using password: YES) in /home/glfjyjdulose/public_html/reddemedios/conexion.php on line 3
+[01-Nov-2019 17:10:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 16
+[01-Nov-2019 17:10:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 17
+[01-Nov-2019 17:10:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 22
+[01-Nov-2019 17:10:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 23
+[01-Nov-2019 17:10:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 29
+[01-Nov-2019 17:10:10 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 41
+[01-Nov-2019 17:10:27 UTC] PHP Notice:  Undefined variable: i in /home/glfjyjdulose/public_html/reddemedios/conexion.php on line 3
+[01-Nov-2019 17:10:27 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'www.n3plcpnl0002.prod.ams3.secureserver.net' (0) in /home/glfjyjdulose/public_html/reddemedios/conexion.php on line 3
+[01-Nov-2019 17:10:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 16
+[01-Nov-2019 17:10:27 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 17
+[01-Nov-2019 17:10:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 22
+[01-Nov-2019 17:10:27 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 23
+[01-Nov-2019 17:10:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 29
+[01-Nov-2019 17:10:27 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 41
+[01-Nov-2019 17:10:49 UTC] PHP Notice:  Undefined variable: i in /home/glfjyjdulose/public_html/reddemedios/conexion.php on line 3
+[01-Nov-2019 17:10:49 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'https://www.n3plcpnl0002.prod.ams3.secureserver.net' (0) in /home/glfjyjdulose/public_html/reddemedios/conexion.php on line 3
+[01-Nov-2019 17:10:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 16
+[01-Nov-2019 17:10:49 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 17
+[01-Nov-2019 17:10:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 22
+[01-Nov-2019 17:10:49 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 23
+[01-Nov-2019 17:10:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 29
+[01-Nov-2019 17:10:49 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/registrar.php on line 41
+[01-Nov-2019 17:25:15 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/glfjyjdulose/public_html/reddemedios/validar.php on line 6
+[01-Nov-2019 17:25:15 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/validar.php on line 16
+[01-Nov-2019 17:25:15 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/glfjyjdulose/public_html/reddemedios/validar.php on line 17
+[01-Nov-2019 17:25:41 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/glfjyjdulose/public_html/reddemedios/validar.php on line 6
+[01-Nov-2019 17:25:41 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/validar.php on line 16
+[01-Nov-2019 17:25:41 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/glfjyjdulose/public_html/reddemedios/validar.php on line 17
+[01-Nov-2019 17:25:51 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/glfjyjdulose/public_html/reddemedios/validar.php on line 6
+[01-Nov-2019 17:25:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/validar.php on line 16
+[01-Nov-2019 17:25:51 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/glfjyjdulose/public_html/reddemedios/validar.php on line 17
+[01-Nov-2019 17:29:03 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/glfjyjdulose/public_html/reddemedios/validar.php on line 6
+[01-Nov-2019 17:29:03 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/validar.php on line 16
+[01-Nov-2019 17:29:03 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/glfjyjdulose/public_html/reddemedios/validar.php on line 17
+[01-Nov-2019 17:29:10 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/glfjyjdulose/public_html/reddemedios/validar.php on line 6
+[01-Nov-2019 17:29:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/validar.php on line 16
+[01-Nov-2019 17:29:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/glfjyjdulose/public_html/reddemedios/validar.php on line 17
+[01-Nov-2019 17:29:36 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/glfjyjdulose/public_html/reddemedios/validar.php on line 6
+[01-Nov-2019 17:29:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/glfjyjdulose/public_html/reddemedios/validar.php on line 16
+[01-Nov-2019 17:29:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/glfjyjdulose/public_html/reddemedios/validar.php on line 17
